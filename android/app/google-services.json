@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106159293075",
+    "firebase_url": "https://covid-272119.firebaseio.com",
+    "project_id": "covid-272119",
+    "storage_bucket": "covid-272119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106159293075:android:02c346a4208d64a33e4366",
+        "android_client_info": {
+          "package_name": "com.lab.murtuza.corona_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106159293075-a9s4nuvmk1f562sh5ekmftv7731ucqjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lab.murtuza.corona_care",
+            "certificate_hash": "5e625fcad13ea471a8643b090b81c1eef0408dce"
+          }
+        },
+        {
+          "client_id": "106159293075-a7883617aqrcar5n00mso7e0arplubj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzqWtH3P7-3jetpErCg_jlE1t0VR3qfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106159293075-a7883617aqrcar5n00mso7e0arplubj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
