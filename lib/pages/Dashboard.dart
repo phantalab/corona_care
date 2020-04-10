@@ -484,8 +484,8 @@ class _DashboardState extends State<Dashboard> {
         country.replaceAll(" ", "%20");
     print(url);
     Map<String, String> requestHeaders = {
-      "x-rapidapi-host": "covid-193.p.rapidapi.com",
-      "x-rapidapi-key": "b12bc6f83amshc447880da074af6p183963jsn94eaab8fbda4"
+      "x-rapidapi-host": "API-KEY",
+      "x-rapidapi-key": "API-KEY"
     };
     var response = await http.get(url, headers: requestHeaders);
 
