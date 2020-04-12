@@ -4,6 +4,10 @@ A new Flutter application.
 
 ![alt text](https://media-exp1.licdn.com/dms/image/C5122AQGIqrU0ZWnQiQ/feedshare-shrink_1280/0?e=1589414400&v=beta&t=cPejZW6USwIc8DWGX_-oSLBizMAofPBdXjTitM1cF6c "screen shot 1")
 
+![alt text](https://media-exp1.licdn.com/dms/image/C5122AQEot3MePmgaog/feedshare-shrink_1280/0?e=1589414400&v=beta&t=nwMDX6p93eaQp80hvMBqSuWYXKQz7p8azl6fIhsxV2Y "screen shot 2")
+
+![alt text](https://media-exp1.licdn.com/dms/image/C5122AQHso27btbsHKA/feedshare-shrink_1280/0?e=1589414400&v=beta&t=yovrYyRsRgfmRFXS0amNG0ZKGynlRSAjbU0XIc33T6Q "screen shot 3")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
