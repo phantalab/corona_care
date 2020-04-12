@@ -1,6 +1,8 @@
-# corona_care
+# Corona Care
 
 A new Flutter application.
+
+![alt text](https://media-exp1.licdn.com/dms/image/C5122AQGIqrU0ZWnQiQ/feedshare-shrink_1280/0?e=1589414400&v=beta&t=cPejZW6USwIc8DWGX_-oSLBizMAofPBdXjTitM1cF6c "screen shot 1")
 
 ## Getting Started
 
